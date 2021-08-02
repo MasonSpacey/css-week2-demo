@@ -1,0 +1,16 @@
+aside {
+    color: blueviolet;
+}
+
+footer p {
+    color: cornflowerblue;
+}
+
+footer > p {
+    outline: 2px dotted blue;
+}
+
+a[href*= "CSS"] {
+    color: green;
+    
+}
